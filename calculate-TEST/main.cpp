@@ -3,7 +3,7 @@
 #include"Controller.h"
 using namespace std;
 int main(int argc,char*argv[]) {
-	if (argc == 0) {
+	if (argc == 1) {
 		Controller c;
 		c.start();
 	}

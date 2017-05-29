@@ -1,0 +1,10 @@
+﻿  Question.cpp
+d:\vswork\calculate-test\calculate-test\question.cpp(15): warning C4244: “return”: 从“double”转换到“int”，可能丢失数据
+d:\vswork\calculate-test\calculate-test\question.cpp(256): warning C4101: “k”: 未引用的局部变量
+d:\vswork\calculate-test\calculate-test\question.cpp(256): warning C4101: “t”: 未引用的局部变量
+  Controller.cpp
+d:\vswork\calculate-test\calculate-test\controller.cpp(69): warning C4996: 'itoa': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _itoa. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.15063.0\ucrt\stdlib.h(1334): note: 参见“itoa”的声明
+  正在生成代码...
+  calculate-TEST.vcxproj -> D:\vsWork\calculate-TEST\x64\Debug\calculate-TEST.exe
+  calculate-TEST.vcxproj -> D:\vsWork\calculate-TEST\x64\Debug\calculate-TEST.pdb (Partial PDB)

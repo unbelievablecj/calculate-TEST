@@ -7,6 +7,7 @@ class Controller
 	char* language;
 	int total;
 	Print out;
+	//得到语言种类
 	char* getLanuage();
 	int getTotal();
 	void run();

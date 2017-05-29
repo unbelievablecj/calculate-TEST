@@ -3,12 +3,12 @@
 using namespace std;
 class Print
 {
-	static string s[10];
+	char s[10][1000];
 	FILE* file;
 public:
-	string scan(int n);
+	char* scan(int n);
 	Print(FILE* f);
-	void init();
+	void init(char *lan);
 	Print();
 	~Print();
 };
